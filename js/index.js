@@ -118,11 +118,11 @@ function restore_input() {
 var link = document.querySelector("link[rel~='icon']");
 async function blink(on) {
   if (on) {
-    link.href = '/favicon-blink.png';
-    if (dark_mode) link.href = '/favicon-blink-dark.png';
+    link.href = 'images/favicon-blink.png';
+    if (dark_mode) link.href = 'images/favicon-blink-dark.png';
   } else {
-    link.href = '/favicon-off.png';
-    if (dark_mode) link.href = '/favicon-off-dark.png';
+    link.href = 'images/favicon-off.png';
+    if (dark_mode) link.href = 'images/favicon-off-dark.png';
   }
   await new Promise(r => setTimeout(r, 1000));
   blink(!on);
