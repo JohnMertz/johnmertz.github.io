@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+
+<head>
+  <title>mer.tz</title>
+  <link href="index.css" rel="stylesheet">
+  <link href="/favicon.png" rel="shortcut icon" type="image/x-icon">
+</head>
+
+<body>
+  <div id="header"><a id="home" onmouseover="cd_hover('/')" onmouseout="restore_input()"
+      href="javascript:cd_link('/')">Home</a></div>
+  <div class="spacer"></div>
+  <div id="scrollback"></div>
+  <div id="prompt"><span id="PS1"></span><span id="input" role="textbox" contenteditable></span><input id="tabgrabber"
+      type="text"></input></div>
+  <div class="spacer"></div>
+  <div id="footer">
+    <a onmouseover="open_hover('https://github.com/JohnMertz/johnmertz.github.io')" onmouseout="restore_input()"
+      href="javascript:open_link('https://github.com/JohnMertz/johnmertz.github.io')">Source Code</a>
+    <a id="licenses" onmouseover="open_hover('https://github.com/JohnMertz/johnmertz.github.io/blob/main/LICENSE.md')"
+      onmouseout="restore_input()"
+      href="javascript:open_link('https://github.com/JohnMertz/johnmertz.github.io/blob/main/LICENSE.md')">License</a>
+  </div>
+  <script src="md2html.js"></script>
+  <script src="index.js"></script>
+</body>

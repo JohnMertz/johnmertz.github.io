@@ -1,0 +1,196 @@
+/* Gruvbox */
+@import url('https://fonts.googleapis.com/css2?family=Fira+Code:wght@300..700&display=swap');
+
+body {
+  --foreground: #282828;
+  --background: #EBDBB2;
+  --black: #010101;
+  --red: #CC241d;
+  --green: #98971A;
+  --yellow: #D79921;
+  --blue: #458588;
+  --purple: #B16286;
+  --cyan: #8EC07C;
+  --white: #A89984;
+  --blackhi: #282828;
+  --redhi: #FB4934;
+  --greenhi: #B8BB26;
+  --yellowhi: #FABD2F;
+  --bluehi: #83A598;
+  --purplehi: #D3869B;
+  --cyanhi: #8EC07C;
+  --whitehi: #EBDBB2;
+  font-size: 18px;
+  line-height: 18px;
+  font-family: "Fira Code", monospace;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+p,
+ul,
+ol {
+  margin: 0px;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5 {
+  font-size: 18px;
+}
+
+h1,
+b {
+  font-weight: normal;
+  text-shadow: -0.5px 0, 0 0.5px, 0.5px 0, 0 -0.5px;
+}
+
+
+a {
+  color: var(--blue);
+}
+
+ol li {
+  list-style-type: decimal-leading-zero;
+}
+
+@keyframes blinker {
+  0% {
+    opacity: 1;
+  }
+
+  49% {
+    opacity: 1;
+  }
+
+  50% {
+    opacity: 0;
+  }
+
+  99% {
+    opacity: 0;
+  }
+}
+
+body {
+  background: var(--background);
+  color: var(--foreground);
+  margin: 0px;
+  padding: 0px;
+  caret-color: var(--background);
+}
+
+#input,
+#input:focus {
+  caret-color: var(--foreground);
+  border: none;
+  outline: none;
+  background: var(--background);
+  color: var(--foreground);
+  caret: var(--foreground) underscore;
+}
+
+#tabgrabber {
+  opacity: 0;
+  position: fixed;
+  top: 0px;
+  height: 0px;
+  width: 0px;
+  right: 0px;
+}
+
+.logo1 {
+  color: var(--red);
+}
+
+.logo2 {
+  color: var(--yellow);
+}
+
+.logo3 {
+  color: var(--green);
+}
+
+.logo4 {
+  color: var(--cyan);
+}
+
+.logo5 {
+  color: var(--blue);
+}
+
+.logo6 {
+  color: var(--purple);
+}
+
+#fetch_user,
+.fetch_value {
+  color: var(--yellow);
+}
+
+#fetch_hr,
+.fetch_label {
+  color: var(--foreground);
+}
+
+#PS1USER {
+  color: var(--green);
+}
+
+#PS1AT,
+#PS1COLON,
+#PS1PROMPT {
+  color: var(--foreground);
+}
+
+#PS1HOST {
+  color: var(--cyan);
+}
+
+#PS1PATH {
+  color: var(--yellow);
+}
+
+#header,
+#footer {
+  position: fixed;
+  background: var(--blue);
+  color: var(--background);
+  width: 100%;
+  height: 20px;
+}
+
+#header {
+  top: 0px;
+}
+
+#header a {
+  color: var(--foreground);
+}
+
+#footer {
+  bottom: 0px;
+}
+
+#footer a {
+  color: var(--foreground);
+}
+
+#header a,
+#footer a {
+  text-decoration: none;
+}
+
+#licenses {
+  float: right;
+}
+
+.spacer {
+  width: 100%;
+  height: 20px;
+}
