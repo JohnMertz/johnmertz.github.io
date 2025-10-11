@@ -68,10 +68,15 @@ function open_hover(path) {
   input.innerHTML = 'open ' + path;
 }
 
-function open_link(path) {
+async function open_link(path) {
   options = '';
   if (path.match(/^http/) != null) options += 'noreferrer';
-  window.open(path, '_blank', options).focus();
+  let new_window = window.open(path, '_blank', options);
+  // Small delay if DOM hasn't loaded yet
+  if (!new_window.hasOwnProperty(focus)) {
+    await new Promise(r => setTimeout(r, 1000));
+  }
+  new_window.focus();
 }
 
 function img_hover(path) {
