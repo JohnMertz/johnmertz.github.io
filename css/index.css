@@ -55,6 +55,18 @@ a {
   color: var(--blue);
 }
 
+ul {
+  padding-left: .6em;
+}
+
+ul li {
+  list-style: none;
+}
+
+ul li:before {
+  content: '* ';
+}
+
 ol li {
   list-style-type: decimal-leading-zero;
 }
