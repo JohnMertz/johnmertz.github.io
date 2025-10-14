@@ -6,4 +6,4 @@ The content is written in Markdown and converted to HTML that looks passable as 
 
 You can find the source code [here](https://github.com/JohnMertz/johnmertz.github.io).
 
-It is hosted on GitHub Pages at [https://johnmertz.github.io](https://johnmertz.github.io).
+It is hosted on GitHub Pages at [https://johnmertz.github.io](https://johnmertz.github.io), however some features which are available via the address bar only work from [mer.tz](https://mer.tz) because of some URI rewriting via the [nginx](https://nginx.org) reverse proxy.
