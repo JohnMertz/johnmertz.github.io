@@ -2,9 +2,9 @@
 
 Hi! So lovely that you'd like to chat!
 
-If you somehow got here because you are a former MailCleaner customer and you would like to talk, please email me. I have set up an address for **mailcleaner** at the domain **john.me.tz** ([GPG key](https://mer.tz/mailcleaner.asc))
+If you somehow got here because you are a former MailCleaner customer and you would like to talk, please email me. I have set up an address for **mailcleaner** at the domain **john.me.tz** ([GPG key](https://mer.tz/gpg/mailcleaner.asc))
 
-If you want to email me about something else, use **contact** at the same domain ([GPG key](https://mer.tz/contact.asc)).
+If you want to email me about something else, use **contact** at the same domain ([GPG key](https://mer.tz/gpg/contact.asc)).
 
 Don't know what this "GPG key" business is? Learn [here](/gpg).
 

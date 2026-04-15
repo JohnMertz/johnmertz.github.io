@@ -4,7 +4,7 @@
 drwxr-xr-x. 2 guest guest  4096 Jan  1 00:00 blog
 -rw-r--r--. 1 guest guest   885 Jan  1 00:00 blogroll
 -rw-r--r--. 1 guest guest   794 Jan  1 00:00 colophon
--rw-r--r--. 1 guest guest   820 Jan  1 00:00 contact
+-rw-r--r--. 1 guest guest   828 Jan  1 00:00 contact
 -rw-r--r--. 1 guest guest  1986 Jan  1 00:00 defaults
 -rw-r--r--. 1 guest guest  4142 Jan  1 00:00 index
 -rw-r--r--. 1 guest guest  1452 Jan  1 00:00 now
