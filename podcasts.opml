@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<opml version="2.0">
+ <head>
+  <title>AntennaPod Subscriptions</title>
+  <dateCreated>14 Apr 26 14:00:36 -0600</dateCreated>
+ </head>
+ <body>
+  <outline text="Active Towns" title="Active Towns" type="rss" xmlUrl="https://feeds.transistor.fm/active-towns" htmlUrl="https://activetowns.transistor.fm"/>
+  <outline text="Alberta Advantage Podcast" title="Alberta Advantage Podcast" type="rss" xmlUrl="https://albertaadvantage.libsyn.com/rss" htmlUrl="https://www.albertaadvantagepod.com"/>
+  <outline text="Behind the Bastards" title="Behind the Bastards" type="rss" xmlUrl="https://www.omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/e5f91208-cc7e-4726-a312-ae280140ad11/d64f756d-6d5e-4fae-b24f-ae280140ad36/podcast.rss" htmlUrl="https://www.iheart.com/podcast/105-behind-the-bastards-29236323/"/>
+  <outline text="Better Offline" title="Better Offline" type="rss" xmlUrl="https://www.omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/cf0c25ad-cf01-4da5-ae1c-b0fc015f790e/53ed270b-7147-4f70-81c2-b0fc015fe4ed/podcast.rss" htmlUrl="https://www.iheart.com/podcast/150284547"/>
+  <outline text="Blowback" title="Blowback" type="rss" xmlUrl="https://feeds.megaphone.fm/ARML4460792039" htmlUrl="https://redcircle.com/shows/blowback"/>
+  <outline text="Building Local Power" title="Building Local Power" type="rss" xmlUrl="https://feeds.transistor.fm/building-local-power" htmlUrl="https://ilsr.org/"/>
+  <outline text="CANADALAND" title="CANADALAND" type="rss" xmlUrl="https://feeds.acast.com/public/shows/630ceae33fe37400122828c6" htmlUrl="https://canadaland.supercast.com"/>
+  <outline text="Do Not Pass Go by Peter Nowak" title="Do Not Pass Go by Peter Nowak" type="rss" xmlUrl="https://api.substack.com/feed/podcast/5958449.rss" htmlUrl="https://www.donotpassgo.ca/podcast"/>
+  <outline text="Friendly Atheist Podcast" title="Friendly Atheist Podcast" type="rss" xmlUrl="https://rss.art19.com/friendly-atheist-podcast" htmlUrl="https://art19.com/shows/friendly-atheist-podcast"/>
+  <outline text="From Embers" title="From Embers" type="rss" xmlUrl="https://fromembers.libsyn.com/rss" htmlUrl="http://fromembers.libsyn.com"/>
+  <outline text="Late Night Linux Family All Episodes" title="Late Night Linux Family All Episodes" type="rss" xmlUrl="https://latenightlinux.com/feed/all" htmlUrl="https://latenightlinux.com"/>
+  <outline text="Left Reckoning" title="Left Reckoning" type="rss" xmlUrl="https://anchor.fm/s/d691ac7c/podcast/rss" htmlUrl="https://www.patreon.com/leftreckoning"/>
+  <outline text="Linux Matters" title="Linux Matters" type="rss" xmlUrl="https://linuxmatters.sh/episode/index.xml" htmlUrl="https://linuxmatters.sh/"/>
+  <outline text="Live Like the World is Dying" title="Live Like the World is Dying" type="rss" xmlUrl="https://pinecast.com/feed/live-like-the-world-is-dying" htmlUrl="http://www.tangledwilderness.org"/>
+  <outline text="Majority Report" title="Majority Report" type="rss" xmlUrl="https://majorityfm.libsyn.com" htmlUrl="https://fans.fm/majority"/>
+  <outline text="Some More News" title="Some More News" type="rss" xmlUrl="https://rss.art19.com/some-more-news" htmlUrl="https://art19.com/shows/some-more-news"/>
+  <outline text="Speaking Municipally" title="Speaking Municipally" type="rss" xmlUrl="https://feeds.transistor.fm/speaking-municipally" htmlUrl="https://edmonton.taproot.news"/>
+  <outline text="The Climate Denier's Playbook" title="The Climate Denier's Playbook" type="rss" xmlUrl="https://rss.art19.com/the-climate-deniers-playbook" htmlUrl="https://art19.com/shows/the-climate-deniers-playbook"/>
+  <outline text="The Hatchet" title="The Hatchet" type="rss" xmlUrl="https://api.substack.com/feed/podcast/3224756.rss" htmlUrl="https://hatchetmedia.substack.com/podcast"/>
+  <outline text="The Urbanist Agenda" title="The Urbanist Agenda" type="rss" xmlUrl="https://rss.art19.com/the-urbanist-agenda" htmlUrl="https://art19.com/shows/the-urbanist-agenda"/>
+ </body>
+</opml>

@@ -6,8 +6,11 @@ Here is the list of subscriptions exported from my [newsboat](https://newsboat.o
 
 Category legend for your convenience:
 
+🤖&nbsp;AI&nbsp;&nbsp;&#32;
 🐧&nbsp;Linux&nbsp;&nbsp;&#32;
 🖥️&nbsp;Tech&nbsp;&nbsp;&#32;
 
-🐧🖥️&nbsp;[LWN.net](https://lwn.net/headlines/rss)<br>
-🐧🖥️&nbsp;[Drew Devault's blog](https://drewdevault.com/blog/index.xml)<br>
+&nbsp;&nbsp;🐧🖥️&nbsp;[Drew Devault's blog](https://drewdevault.com/blog/index.xml)<br>
+&nbsp;&nbsp;🐧🖥️&nbsp;[LWN.net](https://lwn.net/headlines/rss)<br>
+🤖&nbsp;&nbsp;🖥️&nbsp;[Molly White's posts](https://www.mollywhite.net/feed/feed.xml)<br>
+🤖&nbsp;&nbsp;🖥️&nbsp;[Where's Your Ed At](https://wheresyoured.at/rss)<br>
