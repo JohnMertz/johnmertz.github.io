@@ -5,14 +5,14 @@ drwxr-xr-x. 2 guest guest  4096 Jan  1 00:00 blog
 -rw-r--r--. 1 guest guest   885 Jan  1 00:00 blogroll
 -rw-r--r--. 1 guest guest   794 Jan  1 00:00 colophon
 -rw-r--r--. 1 guest guest   831 Jan  1 00:00 contact
+-rw-r--r--. 1 guest guest  1986 Jan  1 00:00 defaults
 -rw-r--r--. 1 guest guest  4142 Jan  1 00:00 index
 -rw-r--r--. 1 guest guest  1452 Jan  1 00:00 now
 -rw-r--r--. 1 guest guest  2017 Jan  1 00:00 podroll
--rw-r--r--. 1 guest guest  1209 Jan  1 00:00 slashes
+-rw-r--r--. 1 guest guest  1270 Jan  1 00:00 slashes
 -rw-r--r--. 1 guest guest  9920 Jan  1 00:00 tuberoll
--rw-r--r--. 1 guest guest  1603 Jan  1 00:00 uses
--rw-r--r--. 1 guest guest  1327 Jan  1 00:00 verify
--rw-r--r--. 1 guest guest  4211 Jan  1 00:00 youtube
+-rw-r--r--. 1 guest guest  1346 Jan  1 00:00 uses
+-rw-r--r--. 1 guest guest  1210 Jan  1 00:00 verify
 -->
 <span class="logo1">┌───────┐</span><span class="logo2">┌─────┐</span><span class="logo3">┌─────┐</span>&nbsp;&nbsp;**Welcome to <span style="color: var(--red);">m</span><span style="color: var(--yellow);">e</span><span style="color: var(--green);">r</span><span style="color: var(--aqua);">.</span><span style="color: var(--blue);">t</span><span style="color: var(--purple);">z</span>**<br>
 <span class="logo1">│&nbsp;┌┐&nbsp;┌┐&nbsp;│</span><span class="logo2">│&nbsp;┌───┘</span><span class="logo3">│&nbsp;┌─┐&nbsp;│&nbsp;&nbsp;</span><span id="fetch_hr"></span><br>
