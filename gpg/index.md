@@ -1,7 +1,7 @@
 <!--
 -rw-r--r--. 1 guest guest  3175 Jan  1 00:00 contact
 -rw-r--r--. 1 guest guest  3159 Jan  1 00:00 git
--rw-r--r--. 1 guest guest  3902 Jan  1 00:00 index
+-rw-r--r--. 1 guest guest  4734 Jan  1 00:00 index
 -rw-r--r--. 1 guest guest  3183 Jan  1 00:00 mail
 -->
 # Sending Encrypted Email (GPG / OpenPGP)
@@ -21,6 +21,12 @@ Thunderbird has OpenPGP build in, but you'll need to generate a key (below)
 3. Import your key
 4. When sending to someone the first time use **OpenPGP → Key Assistant** to find their key or import it from a file
 5. Ensure that you enable Encryption when composing mail
+
+**Proton Mail (Web)**
+
+Proton Mail automatically uses PGP encryption to other Proton addresses. If you are going to use a free webmail service, this is among the best available and highly recommended over the likes of Gmail and Outlook.
+
+You can enable encryption for additional addresses by going to the settings and searching for **External PGP settings**. I encourage you to enable **Sign external messages** and **Attach public key**. You can export your public key from this settings page also and share it as outlined below.
 
 **Apple Mail (Mac)**
 
