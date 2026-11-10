@@ -8,7 +8,7 @@ drwxr-xr-x. 2 guest guest  4096 Jan  1 00:00 blog
 -rw-r--r--. 1 guest guest  1986 Jan  1 00:00 defaults
 drwxr-xr-x. 2 guest guest  4096 Jan  1 00:00 gpg
 -rw-r--r--. 1 guest guest  4142 Jan  1 00:00 index
--rw-r--r--. 1 guest guest   300 Jan  1 00:00 meshcore
+-rw-r--r--. 1 guest guest   448 Jan  1 00:00 meshcore
 -rw-r--r--. 1 guest guest  1452 Jan  1 00:00 now
 -rw-r--r--. 1 guest guest  2017 Jan  1 00:00 podroll
 -rw-r--r--. 1 guest guest  1270 Jan  1 00:00 slashes
